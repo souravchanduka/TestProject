@@ -1,0 +1,14 @@
+D:\Temp\RampUpProject\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\Temp\RampUpProject\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Temp\RampUpProject\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Temp\RampUpProject\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Temp\RampUpProject\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Temp\RampUpProject\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Temp\RampUpProject\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Temp\RampUpProject\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Temp\RampUpProject\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Temp\RampUpProject\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Temp\RampUpProject\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Temp\RampUpProject\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Temp\RampUpProject\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Temp\RampUpProject\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
